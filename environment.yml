@@ -4,6 +4,7 @@ channels:
 dependencies:
     - jupyterlab
     - numpy
+    - pip
     - pip:
       - qiskit
       - qiskit[visualization]
