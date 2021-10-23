@@ -6,5 +6,6 @@ dependencies:
     - numpy
     - pip
     - pip:
+      - jupyterlab-mathjax3
       - qiskit
       - qiskit[visualization]
