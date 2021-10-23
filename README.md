@@ -13,3 +13,4 @@
 * Ensure that you are in the environment by running `conda env list`
   * You'll see a list of environments on the left side with a bunch of file paths on the right. If you're in the *right* environment, there should be a `*` to the right of `grovers-workshop-env`
 * run `jupyter-lab` in your command line, you should see the Jupyter Lab pop up in your browser. On the left hand side you should be able to navigate through the different notebooks.
+  * For this workshop, please refer to the `INDEX.ipynb` file FIRST. It will give you the proper order to view the other notebooks.
